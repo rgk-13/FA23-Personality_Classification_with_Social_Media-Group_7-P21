@@ -20,4 +20,4 @@ Steps to Run:
 
 3. Open the colab file "Prediction_DT_LR_NN" this has the codes for Decision Tree, Logistic Regression, and Neural Network to predict the Gender and Political inclination of the users.
 
-4. There is another "Prediction.r" file that does the regression for the OCEAN and classification for the other traits and provides you with a LDA vs SVD graphs for better understanding of the accuracies.
+4. There is another "Prediction_OCEAN" file that does the regression for the OCEAN and classification for the other traits and provides you with a LDA vs SVD graphs for better understanding of the accuracies.
